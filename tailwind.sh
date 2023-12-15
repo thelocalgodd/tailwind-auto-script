@@ -1,7 +1,7 @@
 #!/bin/sh
 read -p "Enter Project Name: " project_name
 
-npm create vite@latest $project_name
+npm create vite@latest $project_name -- --template react
 cd $project_name
 npm install
 npm install -D tailwindcss postcss autoprefixer
