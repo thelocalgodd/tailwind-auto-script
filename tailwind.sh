@@ -27,7 +27,7 @@ echo 'function App() {
   return (
     <>
       <div className="flex h-screen items-center justify-center">
-        <h1 className="text-6xl">It works !!!</h1>
+        <h1 className="text-6xl">It works !</h1>
       </div>
     </>
   )
@@ -36,5 +36,4 @@ echo 'function App() {
 export default App' > src/App.jsx
 
 rm src/App.css
-
 npm run dev
