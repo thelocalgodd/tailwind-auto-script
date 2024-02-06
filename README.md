@@ -1,4 +1,4 @@
-## TailWind Auto Script
+## Tailwind Auto Script
 this is a simple shell script for a fast installation of tailwind in a react project created with vite.
 
 ## Usage
@@ -11,5 +11,6 @@ this is a simple shell script for a fast installation of tailwind in a react pro
 
 ## Tips
 1. use `./` filename to create project in current directory
+2. use `wget https://raw.githubusercontent.com/thelocalgodd/tailwind-auto-script/master/tailwind.sh && bash tailwind.sh` to download and run the file remotely, using wget
 
 ![preview](usage.gif)
