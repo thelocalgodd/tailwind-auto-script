@@ -7,7 +7,9 @@ this is a simple shell script for a fast installation of tailwind in a react pro
 3. run `bash tailwind.sh`
 4. follow the prompt and done.
 
-## tested with react project created with vite and Javascript
+```
+Created to easily and quickly create a new react (js) project, with tailwind installed
+```
 
 ## Tips
 1. use `./` filename to create project in current directory
